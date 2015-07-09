@@ -17,8 +17,11 @@ Use Cases
 
 5-user will be able to paste the value saved in his/her clipboard on the mobile phone.
 
-High Level Component:
 
+
+----------------------
+High Level Component:
+----------------------
 A Java based Web Application: CopyPasteFromDesktopToMobile
 
 framework:I  will be using my own MVC framework, for I don't like Struts2 framework

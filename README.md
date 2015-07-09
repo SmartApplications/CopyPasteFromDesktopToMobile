@@ -5,9 +5,9 @@ CopyPasteFromDesktopToMobile is Java web application which will allow a user to 
 ----------------
 Use Cases
 ---------------
-1-The user  "Ctrl+C" a text from his/her desktop Machine.
+1-The user  copies "Ctrl+C" a text from his/her desktop Machine.
 
-2-The user opens a web page where he/she  "Ctrl+V" the text onto the web page input Field.
+2-The user opens a web page where he/she pastes "Ctrl+V" the text onto the web page input Field.
 
 4-The user submit the form and the http requests are sent to the servers
 

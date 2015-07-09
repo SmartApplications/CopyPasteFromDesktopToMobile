@@ -1,6 +1,6 @@
 # CopyPasteFromDesktopToMobile
 
-CopyPasteFromDesktopToMobile is application which will allow a user to copy and paste data from a desktop onto a mobile phone. 
+CopyPasteFromDesktopToMobile is Java web application which will allow a user to copy and paste data from any desktop machine onto a mobile phone. 
 
 ----------------
 Use Cases
